@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/troo/static/css/main.f855e6bc.css",
+    "main.js": "/troo/static/js/main.9a0ac9c0.js",
+    "static/js/453.cfd40376.chunk.js": "/troo/static/js/453.cfd40376.chunk.js",
+    "static/media/logo.svg": "/troo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/troo/index.html",
+    "main.f855e6bc.css.map": "/troo/static/css/main.f855e6bc.css.map",
+    "main.9a0ac9c0.js.map": "/troo/static/js/main.9a0ac9c0.js.map",
+    "453.cfd40376.chunk.js.map": "/troo/static/js/453.cfd40376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9a0ac9c0.js"
+  ]
+}
